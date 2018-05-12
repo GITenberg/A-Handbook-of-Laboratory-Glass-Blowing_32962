@@ -1,0 +1,34 @@
+_repo: A-Handbook-of-Laboratory-Glass-Blowing_32962
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bolas, Naomi
+    gutenberg_agent_id: '36130'
+    url: http://www.gutenberg.org/2009/agents/36130
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bolas, Bernard D.
+    gutenberg_agent_id: '36129'
+    url: http://www.gutenberg.org/2009/agents/36129
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+- Chemistry
+gutenberg_issued: '2010-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32962'
+  lccn: '22000531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Glass blowing and working'
+title: A Handbook of Laboratory Glass-Blowing
+url: http://www.gutenberg.org/ebooks/32962
